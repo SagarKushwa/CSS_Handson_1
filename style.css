@@ -1,0 +1,35 @@
+.heading2
+{
+    color: red;
+    font-style: italic;
+}
+.oder{
+    color: rgb(119, 17, 17);
+    text-decoration:solid;
+    line-height: 40px;
+    font-weight: bold;
+}
+.highLight{
+    background-color: yellow;
+}
+.linethr{
+text-decoration: line-through;
+}
+.list4{
+    font-style: italic;
+    text-decoration: underline;
+}
+.unorder{
+    letter-spacing: 4px;
+   color: brown;
+}
+.para1{
+    color:rgb(144, 111, 27);
+    font-weight: bold;
+}
+.highLight11{
+    color: red;
+    background-color: yellow;
+    font-style: italic;
+    text-decoration: none;
+}
